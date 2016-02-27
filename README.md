@@ -5,7 +5,7 @@
 
 References / precedents:
 
-[Unfinished Asteroids, by Rezoner](https://github.com/rezoner/unfinished-asteroids/wiki)
-[How to Solve it, by George Polya](https://en.wikipedia.org/wiki/How_to_Solve_It)
-[The Careful Design of Cave Story](https://www.soldierfromthesurface.com/games/cavestory/)
-[Allison Parrish's Programming Exercise B for RWET](https://gist.github.com/aparrish/7be6ecf2d6b761f90c09/)
+* [Unfinished Asteroids, by Rezoner](https://github.com/rezoner/unfinished-asteroids/wiki)
+* [How to Solve it, by George Polya](https://en.wikipedia.org/wiki/How_to_Solve_It)
+* [The Careful Design of Cave Story](https://www.soldierfromthesurface.com/games/cavestory/)
+* [Allison Parrish's Programming Exercise B for RWET](https://gist.github.com/aparrish/7be6ecf2d6b761f90c09/)
