@@ -3,14 +3,20 @@
 
 **GrasshopperChallenges** are a set of challenges designed to teach Grasshopper by creating a set of active learning / problem-solving challenges -- *learning-by-doing*, rather than *learning-by-watching-videos*. The challenges are designed to be fun, and also to highly limit the scope of each problem, so that learners can tackle one aspect of Grasshopper at a time. 
 
-If you're new to Grasshopper, I highly recommend reviewing the 'Node Logic' and 'Grasshopper Intro' videos on the [GSAPP Skill Tree](http://skilltree.gsapp.org/), then starting with `GH_Challenges_A_Intro_to_Grasshopper.ghx`. 
-
-If you're more comfortable with Grasshopper, I recommend starting with Challenges B
+##>>> [**v0.2 ZIP Download link**](https://github.com/dantaeyoung/GrasshopperChallenges/archive/v0.2.zip) <<<
+###(The challenges are being continually updated, so please check back once in a while for updated versions.)
 
 ***
 
-##>>> [**v0.2 ZIP Download link**](https://github.com/dantaeyoung/GrasshopperChallenges/archive/v0.2.zip) <<<
-###(The challenges are being continually updated, so please check back once in a while for updated versions.)
+## How to use this Challenges:
+
+Download the files via the ZIP link above, or clone the repository.
+
+- If you're new to Grasshopper, I highly recommend reviewing the 'Node Logic' and 'Grasshopper Intro' videos on the [GSAPP Skill Tree](http://skilltree.gsapp.org/), then starting with `GH_Challenges_A_Intro_to_Grasshopper.ghx`. 
+
+- If you're more comfortable with Grasshopper, I recommend starting with `GH_Challenges_B_Logic.ghx` and onwards.
+
+- If you're looking to start with Grasshopper & representational techniques, I recommend starting with `GH_Challenges_E_representation.ghx`
 
 ***
 
