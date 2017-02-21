@@ -18,6 +18,8 @@ Download the files via the ZIP link above, or clone the repository.
 
 - If you're looking to start with Grasshopper & representational techniques, I recommend starting with `GH_Challenges_E_representation.ghx`
 
+As a rule of thumb, each set of Challenges were designed to take between 15 min ~ 45 min to solve, if encountered at the appopriate skill level. 
+
 ***
 
 ### Other resources:
@@ -50,4 +52,6 @@ First release.
 
 ### License / attribution / usage:
 
-The Grasshopper Challenges are licensed under a copyleft, [GPLv3](http://www.gnu.org/licenses/gpl-3.0.txt) license. Please feel free to use and to modify under its terms. I would also appreciate a note if you use this in a class/session/workshop, just to fulfill my curiosity!
+The Grasshopper Challenges are licensed under a copyleft, [GPLv3](http://www.gnu.org/licenses/gpl-3.0.txt) license. Please feel free to use and to modify under its terms.
+
+I would also appreciate a note if you use this in a class/session/workshop, just to fulfill my curiosity. And any and all feedback is much appreciated!
