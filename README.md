@@ -1,7 +1,17 @@
 # GrasshopperChallenges
 ![gif example](https://raw.githubusercontent.com/provolot/GrasshopperChallenges/master/Challenge_GIFs/ChallengeAExample.gif)
 
-**GrasshopperChallenges** are a set of challenges *designed* to teach Grasshopper, by creating a set of active learning / problem-solving challenges. The challenges are designed to be fun, and also to highly limit the scope of each problem, so that learners can tackle one aspect of Grasshopper at a time.
+**GrasshopperChallenges** are a set of challenges *designed* to teach Grasshopper, by creating a set of active learning / problem-solving challenges. The challenges are designed to be fun, and also to highly limit the scope of each problem, so that learners can tackle one aspect of Grasshopper at a time. 
+
+**The challenges are being continually updated, so please check back once in a while for updated versions.**
+
+[**ZIP Download link**](https://github.com/dantaeyoung/GrasshopperChallenges/archive/master.zip)
+
+
+Other resources:
+* [GSAPP Skill Tree](http://skilltree.gsapp.org/)
+* [Mode Lab Grasshopper Primer](http://modelab.is/grasshopper-primer/)
+* [Grasshopper3d.com forums](http://www.grasshopper3d.com/forum)
 
 References / precedents:
 
