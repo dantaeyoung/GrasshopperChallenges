@@ -1,9 +1,11 @@
-# GrasshopperChallenges v0.2
+# GrasshopperChallenges (v0.2)
 ![gif example](https://raw.githubusercontent.com/provolot/GrasshopperChallenges/master/Challenge_GIFs/ChallengeAExample.gif)
 
 **GrasshopperChallenges** are a set of challenges designed to teach Grasshopper by creating a set of active learning / problem-solving challenges -- *learning-by-doing*, rather than *learning-by-watching-videos*. The challenges are designed to be fun, and also to highly limit the scope of each problem, so that learners can tackle one aspect of Grasshopper at a time. 
 
 If you're new to Grasshopper, I highly recommend reviewing the 'Node Logic' and 'Grasshopper Intro' videos on the [GSAPP Skill Tree](http://skilltree.gsapp.org/), then starting with `GH_Challenges_A_Intro_to_Grasshopper.ghx`. 
+
+If you're more comfortable with Grasshopper, I recommend starting with Challenges B
 
 ***
 
