@@ -7,7 +7,7 @@ If you're new to Grasshopper, I highly recommend reviewing the 'Node Logic' and 
 
 ***
 
-###[**v0.2 ZIP Download link**](https://github.com/dantaeyoung/GrasshopperChallenges/archive/v0.2.zip)
+##>>> [**v0.2 ZIP Download link**](https://github.com/dantaeyoung/GrasshopperChallenges/archive/v0.2.zip) <<<
 ###(The challenges are being continually updated, so please check back once in a while for updated versions.)
 
 ***
