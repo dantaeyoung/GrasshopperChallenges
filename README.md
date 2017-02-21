@@ -29,7 +29,7 @@ References / precedents for learning-by-doing:
 
 Release notes:
 
-* v0.2
+* v0.2, Feb 21, 2017
 Edited with more commentary and information, especially about zooming in to preview hints, and placing 'Challenge' text on the Rhino canvas.
 
 * v0.1
