@@ -37,3 +37,6 @@ Edited with more commentary and information, especially about zooming in to prev
 * v0.1
 First release.
 
+***
+
+The Grasshopper Challenges are licensed under [GPLv3](http://www.gnu.org/licenses/gpl-3.0.txt). Please feel free to use and to modify under its terms. I would also appreciate a note if you use this in a class/session/workshop, just to fulfill my curiosity!
