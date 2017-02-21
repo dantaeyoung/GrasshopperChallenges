@@ -1,4 +1,4 @@
-# GrasshopperChallenges
+# GrasshopperChallenges v0.2
 ![gif example](https://raw.githubusercontent.com/provolot/GrasshopperChallenges/master/Challenge_GIFs/ChallengeAExample.gif)
 
 **GrasshopperChallenges** are a set of challenges designed to teach Grasshopper by creating a set of active learning / problem-solving challenges -- *learning-by-doing*, rather than *learning-by-watching-videos*. The challenges are designed to be fun, and also to highly limit the scope of each problem, so that learners can tackle one aspect of Grasshopper at a time. 
@@ -24,3 +24,14 @@ References / precedents for learning-by-doing:
 * [How to Solve it, by George Polya](https://en.wikipedia.org/wiki/How_to_Solve_It)
 * [The Careful Design of Cave Story](https://www.soldierfromthesurface.com/games/cavestory/)
 * [Allison Parrish's Programming Exercise B for RWET](https://gist.github.com/aparrish/7be6ecf2d6b761f90c09/)
+
+***
+
+Release notes:
+
+* v0.2
+Edited with more commentary and information, especially about zooming in to preview hints, and placing 'Challenge' text on the Rhino canvas.
+
+* v0.1
+First release.
+
