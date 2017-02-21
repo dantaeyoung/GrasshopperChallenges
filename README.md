@@ -1,9 +1,9 @@
-# GrasshopperChallenges (v0.2)
+# GrasshopperChallenges (v0.3)
 ![gif example](https://raw.githubusercontent.com/provolot/GrasshopperChallenges/master/Challenge_GIFs/ChallengeAExample.gif)
 
 **GrasshopperChallenges** are a set of challenges designed to teach Grasshopper by creating a set of active learning / problem-solving challenges -- *learning-by-doing*, rather than *learning-by-watching-videos*. The challenges are designed to be fun, and also to highly limit the scope of each problem, so that learners can tackle one aspect of Grasshopper at a time. 
 
-##>>> [**v0.2 ZIP Download link**](https://github.com/dantaeyoung/GrasshopperChallenges/archive/v0.2.zip) <<<
+##>>> [**v0.3 ZIP Download link**](https://github.com/dantaeyoung/GrasshopperChallenges/archive/v0.3.zip) <<<
 (The challenges are being continually updated, so please check back once in a while for updated versions.)
 
 ***
@@ -36,6 +36,9 @@ Download the files via the ZIP link above, or clone the repository.
 ***
 
 ### Release notes:
+
+* v0.3, Feb 21, 2017
+Added GPLv3 license, release notes, and better documentation in Readme.MD
 
 * v0.2, Feb 21, 2017
 Edited with more commentary and information, especially about zooming in to preview hints, and placing 'Challenge' text on the Rhino canvas.
