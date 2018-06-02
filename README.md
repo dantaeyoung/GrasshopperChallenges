@@ -1,9 +1,9 @@
-# GrasshopperChallenges (v0.3)
+# GrasshopperChallenges (v0.4)
 ![gif example](https://raw.githubusercontent.com/provolot/GrasshopperChallenges/master/Challenge_GIFs/ChallengeAExample.gif)
 
 **GrasshopperChallenges** are a set of challenges designed to teach Grasshopper by creating a set of active learning / problem-solving challenges -- *learning-by-doing*, rather than *learning-by-watching-videos*. The challenges are designed to be fun, and also to highly limit the scope of each problem, so that learners can tackle one aspect of Grasshopper at a time. 
 
-##>>> [**v0.3 ZIP Download link**](https://github.com/dantaeyoung/GrasshopperChallenges/archive/v0.3.zip) <<<
+##>>> [**v0.4 ZIP Download link**](https://github.com/dantaeyoung/GrasshopperChallenges/archive/v0.4.zip) <<<
 (The challenges are being continually updated, so please check back once in a while for updated versions.)
 
 ***
