@@ -40,6 +40,9 @@ As a rule of thumb, each set of Challenges were designed to take between 15 min 
 
 ### Release notes:
 
+* v0.4, June 2, 2019
+Added some slight edits and a Trees challenge.
+
 * v0.3, Feb 21, 2017
 Added GPLv3 license, release notes, and better documentation in Readme.MD
 
