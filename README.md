@@ -1,4 +1,4 @@
-# GrasshopperChallenges (v0.4)
+# GrasshopperChallenges (v0.45)
 ![gif example](https://raw.githubusercontent.com/provolot/GrasshopperChallenges/master/Challenge_GIFs/ChallengeAExample.gif)
 
 **GrasshopperChallenges** are a set of challenges designed to teach Grasshopper by creating a set of active learning / problem-solving challenges -- *learning-by-doing*, rather than *learning-by-watching-videos*. The challenges are designed to be fun, and also to highly limit the scope of each problem, so that learners can tackle one aspect of Grasshopper at a time. 
@@ -39,6 +39,9 @@ As a rule of thumb, each set of Challenges were designed to take between 15 min 
 ***
 
 ### Release notes:
+
+* v0.5, June 2, 2018
+Added "Getting Data In and Out" and an introduction to GHPython.
 
 * v0.4, June 2, 2018
 Added some slight edits and a Trees challenge.
