@@ -40,7 +40,7 @@ As a rule of thumb, each set of Challenges were designed to take between 15 min 
 
 ### Release notes:
 
-* v0.5, June 2, 2018
+* v0.5, Feb 23, 2019
 Added "Getting Data In and Out" and an introduction to GHPython.
 
 * v0.4, June 2, 2018
