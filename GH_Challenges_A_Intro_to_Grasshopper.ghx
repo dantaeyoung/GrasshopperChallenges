@@ -48,10 +48,10 @@
             <chunk name="Projection">
               <items count="2">
                 <item name="Target" type_name="gh_drawing_point" type_code="30">
-                  <X>58</X>
-                  <Y>-3111</Y>
+                  <X>68</X>
+                  <Y>80</Y>
                 </item>
-                <item name="Zoom" type_name="gh_single" type_code="5">0.6399998</item>
+                <item name="Zoom" type_name="gh_single" type_code="5">1.1777885</item>
               </items>
             </chunk>
             <chunk name="Views">
@@ -1756,20 +1756,20 @@
                   <items count="13">
                     <item name="Bold" type_name="gh_bool" type_code="1">true</item>
                     <item name="Ca" type_name="gh_drawing_pointf" type_code="31">
-                      <X>1083.246</X>
-                      <Y>877.8867</Y>
+                      <X>1086.009</X>
+                      <Y>875.2823</Y>
                     </item>
                     <item name="Cb" type_name="gh_drawing_pointf" type_code="31">
-                      <X>1311.342</X>
-                      <Y>877.8867</Y>
+                      <X>1240.545</X>
+                      <Y>875.2823</Y>
                     </item>
                     <item name="Cc" type_name="gh_drawing_pointf" type_code="31">
-                      <X>1311.342</X>
-                      <Y>882.6743</Y>
+                      <X>1240.545</X>
+                      <Y>890.3995</Y>
                     </item>
                     <item name="Cd" type_name="gh_drawing_pointf" type_code="31">
-                      <X>1083.246</X>
-                      <Y>882.6743</Y>
+                      <X>1086.009</X>
+                      <Y>890.3995</Y>
                     </item>
                     <item name="Description" type_name="gh_string" type_code="10">A quick note</item>
                     <item name="Font" type_name="gh_string" type_code="10">Microsoft Sans Serif</item>
@@ -1778,21 +1778,22 @@
                     <item name="Name" type_name="gh_string" type_code="10">Scribble</item>
                     <item name="NickName" type_name="gh_string" type_code="10">Scribble</item>
                     <item name="Size" type_name="gh_single" type_code="5">5</item>
-                    <item name="Text" type_name="gh_string" type_code="10">Double-click on the Slider on the 'Number Slider' text (or Right-click)  to edit the Slider properties.
-</item>
+                    <item name="Text" type_name="gh_string" type_code="10">Right-click on the Slider and select "Edit" to change its properties.
+ By clicking the letters in the "Rounding" section you can control 
+whether it creates decimal or whole numbers.</item>
                   </items>
                   <chunks count="1">
                     <chunk name="Attributes">
                       <items count="2">
                         <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                          <X>1078.246</X>
-                          <Y>872.8867</Y>
-                          <W>238.0957</W>
-                          <H>14.7876</H>
+                          <X>1081.009</X>
+                          <Y>870.2823</Y>
+                          <W>164.5361</W>
+                          <H>25.11719</H>
                         </item>
                         <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                          <X>1083.246</X>
-                          <Y>877.8867</Y>
+                          <X>1086.009</X>
+                          <Y>875.2823</Y>
                         </item>
                       </items>
                     </chunk>
@@ -9088,20 +9089,20 @@ and you can create wires that let you plug into other inputs.</item>
                   <items count="13">
                     <item name="Bold" type_name="gh_bool" type_code="1">true</item>
                     <item name="Ca" type_name="gh_drawing_pointf" type_code="31">
-                      <X>622.0718</X>
-                      <Y>815.1865</Y>
+                      <X>960.4115</X>
+                      <Y>816.0948</Y>
                     </item>
                     <item name="Cb" type_name="gh_drawing_pointf" type_code="31">
-                      <X>974.8965</X>
-                      <Y>815.1865</Y>
+                      <X>1313.235</X>
+                      <Y>816.0948</Y>
                     </item>
                     <item name="Cc" type_name="gh_drawing_pointf" type_code="31">
-                      <X>974.8965</X>
-                      <Y>831.4644</Y>
+                      <X>1313.235</X>
+                      <Y>832.3726</Y>
                     </item>
                     <item name="Cd" type_name="gh_drawing_pointf" type_code="31">
-                      <X>622.0718</X>
-                      <Y>831.4644</Y>
+                      <X>960.4115</X>
+                      <Y>832.3726</Y>
                     </item>
                     <item name="Description" type_name="gh_string" type_code="10">A quick note</item>
                     <item name="Font" type_name="gh_string" type_code="10">Microsoft Sans Serif</item>
@@ -9116,14 +9117,14 @@ and you can create wires that let you plug into other inputs.</item>
                     <chunk name="Attributes">
                       <items count="2">
                         <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                          <X>617.0718</X>
-                          <Y>810.1865</Y>
-                          <W>362.8247</W>
+                          <X>955.4115</X>
+                          <Y>811.0948</Y>
+                          <W>362.824</W>
                           <H>26.27783</H>
                         </item>
                         <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                          <X>622.0718</X>
-                          <Y>815.1865</Y>
+                          <X>960.4115</X>
+                          <Y>816.0948</Y>
                         </item>
                       </items>
                     </chunk>
@@ -9149,8 +9150,8 @@ and you can create wires that let you plug into other inputs.</item>
                     <chunk name="Attributes">
                       <items count="1">
                         <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                          <X>822</X>
-                          <Y>839</Y>
+                          <X>1033.437</X>
+                          <Y>838.6183</Y>
                           <W>12.69757</W>
                           <H>25.3952</H>
                         </item>
@@ -9170,52 +9171,52 @@ and you can create wires that let you plug into other inputs.</item>
                     <chunk name="Mark" index="0">
                       <items count="13">
                         <item name="V" index="0" type_name="gh_point2d" type_code="50">
-                          <X>832.649597167969</X>
-                          <Y>863.166381835938</Y>
+                          <X>1044.08685302734</X>
+                          <Y>862.784729003907</Y>
                         </item>
                         <item name="V" index="1" type_name="gh_point2d" type_code="50">
-                          <X>831.011169433594</X>
-                          <Y>861.528015136719</Y>
+                          <X>1042.44842529297</X>
+                          <Y>861.146362304688</Y>
                         </item>
                         <item name="V" index="2" type_name="gh_point2d" type_code="50">
-                          <X>829.372802734375</X>
-                          <Y>859.070373535156</Y>
+                          <X>1040.81005859375</X>
+                          <Y>858.688720703125</Y>
                         </item>
                         <item name="V" index="3" type_name="gh_point2d" type_code="50">
-                          <X>828.143981933594</X>
-                          <Y>856.61279296875</Y>
+                          <X>1039.58123779297</X>
+                          <Y>856.231140136719</Y>
                         </item>
                         <item name="V" index="4" type_name="gh_point2d" type_code="50">
-                          <X>827.734375</X>
-                          <Y>854.564819335938</Y>
+                          <X>1039.17163085938</X>
+                          <Y>854.183166503907</Y>
                         </item>
                         <item name="V" index="5" type_name="gh_point2d" type_code="50">
-                          <X>826.915161132813</X>
-                          <Y>852.107177734375</Y>
+                          <X>1038.35241699219</X>
+                          <Y>851.725524902344</Y>
                         </item>
                         <item name="V" index="6" type_name="gh_point2d" type_code="50">
-                          <X>826.095947265625</X>
-                          <Y>849.239990234375</Y>
+                          <X>1037.533203125</X>
+                          <Y>848.858337402344</Y>
                         </item>
                         <item name="V" index="7" type_name="gh_point2d" type_code="50">
-                          <X>825.686401367188</X>
-                          <Y>847.192016601563</Y>
+                          <X>1037.12365722656</X>
+                          <Y>846.810363769532</Y>
                         </item>
                         <item name="V" index="8" type_name="gh_point2d" type_code="50">
-                          <X>824.8671875</X>
-                          <Y>845.143981933594</Y>
+                          <X>1036.30444335938</X>
+                          <Y>844.762329101563</Y>
                         </item>
                         <item name="V" index="9" type_name="gh_point2d" type_code="50">
-                          <X>824.047973632813</X>
-                          <Y>843.096008300781</Y>
+                          <X>1035.48522949219</X>
+                          <Y>842.71435546875</Y>
                         </item>
                         <item name="V" index="10" type_name="gh_point2d" type_code="50">
-                          <X>822.819152832031</X>
-                          <Y>841.047973632813</Y>
+                          <X>1034.25640869141</X>
+                          <Y>840.666320800782</Y>
                         </item>
                         <item name="V" index="11" type_name="gh_point2d" type_code="50">
-                          <X>822</X>
-                          <Y>839</Y>
+                          <X>1033.43725585938</X>
+                          <Y>838.618347167969</Y>
                         </item>
                         <item name="VertexCount" type_name="gh_int32" type_code="3">12</item>
                       </items>
@@ -9223,72 +9224,72 @@ and you can create wires that let you plug into other inputs.</item>
                     <chunk name="Mark" index="1">
                       <items count="18">
                         <item name="V" index="0" type_name="gh_point2d" type_code="50">
-                          <X>833.46875</X>
-                          <Y>864.395202636719</Y>
+                          <X>1044.90600585938</X>
+                          <Y>864.013549804688</Y>
                         </item>
                         <item name="V" index="1" type_name="gh_point2d" type_code="50">
-                          <X>833.059143066406</X>
-                          <Y>862.347229003906</Y>
+                          <X>1044.49639892578</X>
+                          <Y>861.965576171875</Y>
                         </item>
                         <item name="V" index="2" type_name="gh_point2d" type_code="50">
-                          <X>833.46875</X>
-                          <Y>860.299194335938</Y>
+                          <X>1044.90600585938</X>
+                          <Y>859.917541503907</Y>
                         </item>
                         <item name="V" index="3" type_name="gh_point2d" type_code="50">
-                          <X>833.878356933594</X>
-                          <Y>858.251220703125</Y>
+                          <X>1045.31561279297</X>
+                          <Y>857.869567871094</Y>
                         </item>
                         <item name="V" index="4" type_name="gh_point2d" type_code="50">
-                          <X>834.697570800781</X>
-                          <Y>856.203186035156</Y>
+                          <X>1046.13482666016</X>
+                          <Y>855.821533203125</Y>
                         </item>
                         <item name="V" index="5" type_name="gh_point2d" type_code="50">
-                          <X>832.239990234375</X>
-                          <Y>856.61279296875</Y>
+                          <X>1043.67724609375</X>
+                          <Y>856.231140136719</Y>
                         </item>
                         <item name="V" index="6" type_name="gh_point2d" type_code="50">
-                          <X>830.6015625</X>
-                          <Y>857.841613769531</Y>
+                          <X>1042.03881835938</X>
+                          <Y>857.4599609375</Y>
                         </item>
                         <item name="V" index="7" type_name="gh_point2d" type_code="50">
-                          <X>828.963195800781</X>
-                          <Y>859.070373535156</Y>
+                          <X>1040.40045166016</X>
+                          <Y>858.688720703125</Y>
                         </item>
                         <item name="V" index="8" type_name="gh_point2d" type_code="50">
-                          <X>827.324768066406</X>
-                          <Y>860.299194335938</Y>
+                          <X>1038.76202392578</X>
+                          <Y>859.917541503907</Y>
                         </item>
                         <item name="V" index="9" type_name="gh_point2d" type_code="50">
-                          <X>825.686401367188</X>
-                          <Y>861.528015136719</Y>
+                          <X>1037.12365722656</X>
+                          <Y>861.146362304688</Y>
                         </item>
                         <item name="V" index="10" type_name="gh_point2d" type_code="50">
-                          <X>824.047973632813</X>
-                          <Y>862.756774902344</Y>
+                          <X>1035.48522949219</X>
+                          <Y>862.375122070313</Y>
                         </item>
                         <item name="V" index="11" type_name="gh_point2d" type_code="50">
-                          <X>826.095947265625</X>
-                          <Y>863.575988769531</Y>
+                          <X>1037.533203125</X>
+                          <Y>863.1943359375</Y>
                         </item>
                         <item name="V" index="12" type_name="gh_point2d" type_code="50">
-                          <X>828.143981933594</X>
-                          <Y>863.575988769531</Y>
+                          <X>1039.58123779297</X>
+                          <Y>863.1943359375</Y>
                         </item>
                         <item name="V" index="13" type_name="gh_point2d" type_code="50">
-                          <X>830.191955566406</X>
-                          <Y>863.985595703125</Y>
+                          <X>1041.62921142578</X>
+                          <Y>863.603942871094</Y>
                         </item>
                         <item name="V" index="14" type_name="gh_point2d" type_code="50">
-                          <X>828.143981933594</X>
-                          <Y>862.756774902344</Y>
+                          <X>1039.58123779297</X>
+                          <Y>862.375122070313</Y>
                         </item>
                         <item name="V" index="15" type_name="gh_point2d" type_code="50">
-                          <X>829.372802734375</X>
-                          <Y>860.708801269531</Y>
+                          <X>1040.81005859375</X>
+                          <Y>860.3271484375</Y>
                         </item>
                         <item name="V" index="16" type_name="gh_point2d" type_code="50">
-                          <X>831.011169433594</X>
-                          <Y>859.47998046875</Y>
+                          <X>1042.44842529297</X>
+                          <Y>859.098327636719</Y>
                         </item>
                         <item name="VertexCount" type_name="gh_int32" type_code="3">17</item>
                       </items>
