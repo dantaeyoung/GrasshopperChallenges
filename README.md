@@ -1,4 +1,4 @@
-# GrasshopperChallenges (v0.45)
+# GrasshopperChallenges (v0.5)
 ##  >>> [**ZIP Download link**](https://github.com/dantaeyoung/GrasshopperChallenges/archive/master.zip) <<<
 
 ![gif example](https://raw.githubusercontent.com/provolot/GrasshopperChallenges/master/Challenge_GIFs/ChallengeAExample.gif)
@@ -41,6 +41,10 @@ As a rule of thumb, each set of Challenges were designed to take between 15 min 
 ***
 
 ### Release notes:
+
+
+* v0.5, Jul 13, 2022
+Fixed "Getting Data In and Out" and challenges A - H to be compatible with Rhino 7, Mac & Windows.
 
 * v0.45, Feb 23, 2019
 Added "Getting Data In and Out" and an introduction to GHPython.
